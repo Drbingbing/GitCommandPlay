@@ -4,3 +4,4 @@ open: 14:00 - 24:00
 stuffs: 100
 owner: bing
 foundation at: 2077-06-11
+money: 100000000
