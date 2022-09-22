@@ -1,0 +1,8 @@
+I am car file.
+
+favorite cars: [
+    Tesla,
+    Audi,
+    Ferri,
+    Nissan
+]
