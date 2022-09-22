@@ -1,6 +1,0 @@
-stuffs: [
-    Bing,
-    Zoe,
-    Hand,
-    Jack
-]
